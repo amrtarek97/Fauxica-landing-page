@@ -1,1 +1,1 @@
-# corvo-landing-page
+# Fauxica-landing-page
